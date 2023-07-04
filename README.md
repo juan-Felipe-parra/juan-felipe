@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Juan Felipe</h1>
 <h3 align="center">A passionate Data Scientist</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juan-felipe-parra" alt="juan-felipe-parra" /></a> </p>
-
 - 🌱 I’m currently learning **AWS**
 
 - 👯 I’m looking to collaborate on **in Data Scientist projects**
